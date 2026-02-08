@@ -1,4 +1,4 @@
-package springboot_splunk_hec_poc;
+package springboot_splunk_hec_poc.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
